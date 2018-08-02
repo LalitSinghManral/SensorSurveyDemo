@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SensorSurveyDemo</string>
+    <string name="light_text">Light Sensor: %1$.2f</string>
+    <string name="proximity_text">Proximity Sensor: %1$.2f</string>
+    <string name="error_no_sensor">No Such Sensor Found</string>
+    <string name="image_to_be_changed">Image to be changed</string>
+    <string name="placeholder">(Placeholder)</string>
 </resources>
