@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_main);
-        setContentView(R.layout.sensor_second_layout);
+        setContentView(R.layout.sensor_second_layout); //new layout file
 
         //mSensorTextView = findViewById(R.id.sensor_list);
         mLightSensorText = findViewById(R.id.label_light);
